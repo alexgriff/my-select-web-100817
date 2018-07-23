@@ -16,7 +16,7 @@ Write your code in `lib/my_select.rb`. Get the tests to pass.
 A few things to think about: 
 
 * What is the return value of yielding a character to a block?
-* How can you ensure your `.select` method can respond appropriately to being passed an argument of an empty collection?
+* How can you enslearnure your `.select` method can respond appropriately to being passed an argument of an empty collection?
 
 
 ## Resources
